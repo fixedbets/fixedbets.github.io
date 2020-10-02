@@ -7,7 +7,7 @@ var events = [
     "eventName": "FC Fastav Zlin U19 - Sparta Prague U19",
     "password": "",
     "finished": false,
-    "walletNum": 0
+    "walletNum": 1
   },
   {
     "eventId": 557,
