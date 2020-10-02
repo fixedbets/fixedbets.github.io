@@ -1,5 +1,15 @@
 var events = [
   {
+    "eventId": 557,
+    "timestamp": 1601721600,
+    "sport": "Soccer",
+    "competition": "Poland. Division 1.",
+    "eventName": "Tychy - Korona Kielce",
+    "password": "",
+    "finished": false,
+    "walletNum": 0
+  },
+  {
     "eventId": 556,
     "timestamp": 1601650800,
     "sport": "Soccer",
