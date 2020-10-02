@@ -5,8 +5,8 @@ var events = [
     "sport": "Soccer",
     "competition": "Romania. Liga 2.",
     "eventName": "FC Rapid Bucuresti - Concordia",
-    "password": "IwdsKk",
-    "finished": false,
+    "password": "PGKOnB",
+    "finished": true,
     "walletNum": 0
   },
   {
