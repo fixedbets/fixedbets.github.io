@@ -1,5 +1,15 @@
 var events = [
   {
+    "eventId": 558,
+    "timestamp": 1601724600,
+    "sport": "Soccer",
+    "competition": "Czech Republic. U19 League.",
+    "eventName": "FC Fastav Zlin U19 - Sparta Prague U19",
+    "password": "",
+    "finished": false,
+    "walletNum": 0
+  },
+  {
     "eventId": 557,
     "timestamp": 1601721600,
     "sport": "Soccer",
