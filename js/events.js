@@ -5,8 +5,8 @@ var events = [
     "sport": "Soccer",
     "competition": "Czech Republic. U19 League.",
     "eventName": "FC Fastav Zlin U19 - Sparta Prague U19",
-    "password": "",
-    "finished": false,
+    "password": "JvrC4r",
+    "finished": true,
     "walletNum": 1
   },
   {
@@ -15,8 +15,8 @@ var events = [
     "sport": "Soccer",
     "competition": "Poland. Division 1.",
     "eventName": "Tychy - Korona Kielce",
-    "password": "",
-    "finished": false,
+    "password": "T6XpId",
+    "finished": true,
     "walletNum": 0
   },
   {
