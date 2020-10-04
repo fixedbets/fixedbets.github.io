@@ -15,8 +15,8 @@ var events = [
     "sport": "Soccer",
     "competition": "Brazil. Serie D.",
     "eventName": "Pelotas - Joinville",
-    "password": "",
-    "finished": false,
+    "password": "Mwyy4Y",
+    "finished": true,
     "walletNum": 1
   },
   {
