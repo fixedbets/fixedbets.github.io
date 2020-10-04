@@ -5,8 +5,8 @@ var events = [
     "sport": "Soccer",
     "competition": "Poland. Division 1.",
     "eventName": "Puszcza - Widzew Lodz",
-    "password": "",
-    "finished": false,
+    "password": "RV5yMN",
+    "finished": true,
     "walletNum": 1
   },
   {
