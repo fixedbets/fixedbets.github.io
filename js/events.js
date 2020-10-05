@@ -5,8 +5,8 @@ var events = [
     "sport": "Soccer",
     "competition": "Romania. Liga 2.",
     "eventName": "U. Cluj - Pandurii",
-    "password": "",
-    "finished": false,
+    "password": "oU8SBh",
+    "finished": true,
     "walletNum": 1
   },
   {
