@@ -15,8 +15,8 @@ var events = [
     "sport": "Soccer",
     "competition": "Russia. PFL - Group 2.",
     "eventName": "Zenit 2 - Zenit Irkutsk",
-    "password": "",
-    "finished": false,
+    "password": "uWLm8u",
+    "finished": true,
     "walletNum": 1
   },
   {
