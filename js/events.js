@@ -7,7 +7,7 @@ var events = [
     "eventName": "Tiszafuredi - Putnok",
     "password": "",
     "finished": false,
-    "
+    "walletNum": 0},
   {
     "eventId": 563,
     "timestamp": 1601994600,
@@ -218,4 +218,4 @@ var events = [
     "finished": true,
     "walletNum": 0
   },
-]
+];
