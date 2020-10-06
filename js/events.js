@@ -1,12 +1,21 @@
 var events = [
   {
+    "eventId": 564,
+    "timestamp": 1602072000,
+    "sport": "Soccer",
+    "competition": "Hungary. Hungarian Cup.",
+    "eventName": "Tiszafuredi - Putnok",
+    "password": "",
+    "finished": false,
+    "
+  {
     "eventId": 563,
     "timestamp": 1601994600,
     "sport": "Soccer",
     "competition": "Ukraine. Persha Liga.",
     "eventName": "Prykarpattya - Ch. Odessa",
-    "password": "",
-    "finished": false,
+    "password": "Jvi7WV",
+    "finished": true,
     "walletNum": 1
   },
   {
