@@ -1,5 +1,15 @@
 var events = [
   {
+    "eventId": 565,
+    "timestamp": 1602158400,
+    "sport": "Soccer",
+    "competition": "Cyprus. Cyprus Cup.",
+    "eventName": "Dighenis - Sotiras",
+    "password": "",
+    "finished": false,
+    "walletNum": 1
+  },
+  {
     "eventId": 564,
     "timestamp": 1602072000,
     "sport": "Soccer",
