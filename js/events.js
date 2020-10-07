@@ -5,8 +5,8 @@ var events = [
     "sport": "Soccer",
     "competition": "Hungary. Hungarian Cup.",
     "eventName": "Tiszafuredi - Putnok",
-    "password": "",
-    "finished": false,
+    "password": "qOyQr5",
+    "finished": true,
     "walletNum": 0
   },
   {
@@ -218,5 +218,5 @@ var events = [
     "password": "",
     "finished": true,
     "walletNum": 0
-  },
+  }
 ];
